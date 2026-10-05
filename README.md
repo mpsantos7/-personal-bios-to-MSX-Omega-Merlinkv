@@ -11,8 +11,8 @@ Both bios have the dead key as "ç", "Ç" with <shift>, and "ã" with <graph>.  
 
 Esta é uma BIOS para MSX Omega, com tamanho de 512k, dos padrões MSX2 e MSX1, com adaptação especial para o idioma português.
 
-O MSX2 é baseado no NMS8245 e também possui o Yamaha Painter, além de Turbo BASIC e do Simple Assembler 3.0, adaptado para o slot 3.
+O MSX2 é baseado no NMS824.  Tem o Yamaha Painter que pode ser  chamado com call painter, Turbo BASIC (call bc) e o Simple Assembler 3.0 (este foi adaptado para funcionar no slot 3).
 
-O MSX1 é baseado na bios do Gradiene Expert 1.3, que é a bios do Expert 1.1 com suporte para mapper. Também tem o simple assembler no slot 3 e turbo Basic (call bc).  Eu tentei transformá-la em uma bios com suporte a 80 colunas, mas ainda há muitos bugs.
+O MSX1 é baseado na bios do Gradiente Expert 1.3, que é a bios do Expert 1.1 com suporte para mapper. Também tem o simple assembler no slot 3 e turbo Basic (call bc).  Eu tentei transformá-la em uma bios com suporte a 80 colunas, mas ainda há muitos bugs.
 
-Ambas têm suporte na dead key para "ç", "Ç" com <shift> e  "ã" com <graph>. 
+Ambas têm suporte na dead key para "ç", "Ç" com <shift> e  "ã" com <graph>. Os outros caracteres acentuados são chamados com <code>.
